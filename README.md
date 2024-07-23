@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...several React Projects!
 - 🌱 I’m currently learning ...WordPress 
 - 👯 I’m looking to collaborate on ...REACT Projects
