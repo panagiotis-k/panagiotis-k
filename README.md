@@ -8,5 +8,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...GraphQL APIs 
 - 💬 Ask me about ...Anything!
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/panagiotis-kordas-7b1469203/)
-- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Meditation is lifestyle
